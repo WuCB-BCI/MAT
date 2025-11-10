@@ -11,7 +11,7 @@
 *   GPU NVIDA GeForce RTX 3090
 # Databases
 *   [SEED](https://bcmi.sjtu.edu.cn/~seed/index.html ""), [SEED-IV](https://bcmi.sjtu.edu.cn/~seed/seed-iv.html ""), [SEED-V](https://bcmi.sjtu.edu.cn/~seed/seed-v.html "") 
-# Training
+# Training and Testing
 *   Data Process Module: utils.py
 *   One-Hot processing: DataProcessing_OneHot.py
 *   Dynamically Updating Gradients: StepwiseLR_GRL.py
