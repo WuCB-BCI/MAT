@@ -1,5 +1,5 @@
-# MAT: A Multi-domain Aggregation Transfer Learning Framework for EEG Emotion Recognition with Domain-Class Prototype under Unseen Targets
-*   A Pytorch implementation of our under reviewed paper "A Multi-domain Aggregation Transfer Learning Framework for EEG Emotion Recognition with Domain-Class Prototype under Unseen Targets".
+# MAT: A Multi-domain Aggregation Transfer Learning Framework with Dual-Prototype for EEG Emotion Recognition in Unseen Targets
+*   A Pytorch implementation of our under reviewed paper "A Multi-domain Aggregation Transfer Learning Framework with Dual-Prototype for EEG Emotion Recognition in Unseen Targets".
 # Installation
 *   Python 3.8
 *   Pytorch 2.0.0
