@@ -42,4 +42,13 @@ Electroencephalography (EEG)-based emotion recognition plays a critical role in 
 *   Pairwise learning: Pairwise_Learning_Module.py 
 *   Model implementation: Implementation_MAT.py
 
-
+# Citation
+@ARTICLE{11714476,
+  author={Li, Guangli and Wu, Canbiao and Zhou, Zhehao and Tian, Na and Dai, Pengwen and Wang, Yuhao and Zhang, Li and Liang, Zhen},
+  journal={IEEE Transactions on Affective Computing}, 
+  title={Learning Domain- and Class-Disentangled Prototypes for Domain-Generalized EEG Emotion Recognition}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-14},
+  doi={10.1109/TAFFC.2026.3738597}}
