@@ -27,7 +27,8 @@ Electroencephalography (EEG)-based emotion recognition plays a critical role in 
 *   Data process pipeline: utils.py
 *   One-Hot processing: DataProcessing_OneHot.py
 *   Gradients updating: StepwiseLR_GRL.py
-*   MAT overall framework : MAT_framework.py
+*   MAT overall framework: MAT_framework.py
+*   Module definition: Module_Definition.py
 *   Pairwise learning: Pairwise_Learning_Module.py 
 *   Model implementation: Implementation_MAT.py
 
