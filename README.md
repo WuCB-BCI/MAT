@@ -9,6 +9,16 @@ Electroencephalography (EEG)-based emotion recognition plays a critical role in 
 *   We design a HDA mechanism with adaptive prototype updating to learn domain and class prototypes, effectively capturing shared cross-domain structures and enhancing generalization to unseen subjects.
 *   We conduct extensive cross-subject validation on four public EEG datasets. Despite the absence of targetdomain data, MAT outperforms or matches state-ofthe-art transfer learning models and has been successfully extended to clinical mental illness detection scenarios.
 
+### Model Training
+<p align="center">
+  <img src="./Figure/Training.png" width="800">
+</p>
+
+### Model Inference
+<p align="center">
+  <img src="./Figure/Inference.png" width="800">
+</p>
+
 # Installation
 *   Python 3.8
 *   Pytorch 2.0.0
